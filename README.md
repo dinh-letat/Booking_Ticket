@@ -1,4 +1,4 @@
-![image](https://github.com/dinh-letat/Booking_Ticket/assets/108498437/58ba525c-2639-447a-ada2-2ed4b9549a37)# Booking Ticket Website #
+# Booking Ticket Website #
 
  Link Project: 
 
