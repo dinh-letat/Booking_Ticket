@@ -29,12 +29,15 @@
 ---
 ### Step 2: Development Backend with Spring Boot ###
 1. Create Entity, Repository and Service:
+   - Entity class: these classes represents user information in the database
+   - Repository class: CRUD with database
+   - Service class: perform user-related processing logic
    - Create Java classes to ... for entities in database.
    - Build JPARepository to interact with database.
    - Implement business logic in Services.
-2. Build API Restful:
+3. Build API Restful:
    - Use @RestController to build APIs for create, update, delete and get infomation from database.
    - Ensure handle request and response the data in JSON format.
-3.  Connect Frontend to Backend:
+4.  Connect Frontend to Backend:
    - Establish HTTP request from frontend to call APIs from backend.
    - Handle data returned from API and display this to frontend
